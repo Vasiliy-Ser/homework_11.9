@@ -74,7 +74,6 @@ select * from test_table;
 
 `При необходимости прикрепитe сюда скриншоты
 
-![answer1](https://github.com/Vasiliy-Ser/homework_11.9/blob/4e4c9a59bb6de3df502ecfd076228aabbbe2560a/img/11.9.png)
 
 ![answer2](https://github.com/Vasiliy-Ser/homework_11.9/blob/4e4c9a59bb6de3df502ecfd076228aabbbe2560a/img/11.9.1.png)
 
